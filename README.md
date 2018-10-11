@@ -69,5 +69,5 @@ The backend API uses a fixed set of cached search results and is limited to a pa
 
 # Resources
 
-[React SPA](https://www.kirupa.com/react/creating_single_page_app_react_using_react_router.htm)
-[React Router Tutorial](https://tech.io/playgrounds/6517/react-router-tutorial)
+- [React SPA](https://www.kirupa.com/react/creating_single_page_app_react_using_react_router.htm)
+- [React Router Tutorial](https://tech.io/playgrounds/6517/react-router-tutorial)
